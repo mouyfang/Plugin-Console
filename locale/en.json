@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin Console",
+    "description": "Manage third-party plugins in one place: npm update checks, enable/disable, uninstall, and row health."
+  }
+}

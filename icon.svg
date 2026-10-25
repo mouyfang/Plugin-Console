@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Plugin Console">
+  <rect width="256" height="256" rx="56" fill="#2f6feb"/>
+  <g fill="none" stroke="#ffffff" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="40" y="40" width="66" height="66" rx="14"/>
+    <rect x="150" y="40" width="66" height="66" rx="14"/>
+    <rect x="40" y="150" width="66" height="66" rx="14"/>
+    <path d="M150 178h66M183 145v66"/>
+  </g>
+</svg>

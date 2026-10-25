@@ -1,0 +1,4 @@
+# Plugin Console: a focused manager for third-party profile plugins.
+- insert:
+    - id: plugin-console
+      name: '@local/dsh-plugin-console'
